@@ -1,4 +1,4 @@
-# About
+# About Monte-Carlo simulator
 Welcome to the Monte Carlo Simulation tool! This project is a C# script designed to perform Monte Carlo simulations, a powerful statistical technique used to understand the impact of risk and uncertainty in prediction and forecasting models.
 
 According to the historical data of delivery, this tool allows for answering two different questions:
